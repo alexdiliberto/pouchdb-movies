@@ -1,0 +1,19 @@
+{
+  "name": "pouchdb-movies",
+  "version": "1.0.0",
+  "main": "index.js",
+  "description": "",
+  "license": "MIT",
+  "repository": "alexdiliberrto/pouchdb-movies",
+  "author": {
+    "name": "Alex DiLiberto",
+    "email": "npm@alexdiliberto.com",
+    "url": "alexdiliberto.com"
+  },
+  "engines": {
+    "node": ">=4"
+  },
+  "dependencies": {
+    "pouchdb": "^6.2.0"
+  }
+}
